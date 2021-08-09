@@ -1,7 +1,7 @@
 #pragma once
 
 #define convar_cl_fov 0xA04C54                                              //client.dll
-#define convar_fps_max 0x6B3AA4                                              //client.dll
+#define convar_fps_max 0x6B3AA4                                             //client.dll
 #define convar_cc_subtitles 0x9E1C8C                                        //client.dll
 #define convar_cl_ambient_light_disableentities 0x99BEB4                    //client.dll
 #define convar_cl_autowepswitch 0xA080A4                                    //client.dll
