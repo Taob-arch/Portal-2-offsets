@@ -16,4 +16,4 @@
 #define convar_client_crosshair 0x9E1F44                                           //client.dll
 #define convar_server_displaysoundlist 0x7F4B84                                    //server.dll
 #define convar_client_sv_gravity 0x9EB414                                          //client.dll
-//only just started documenting these, if youcan, please support the projectby finding and submitting your offsets!
+//only just started documenting these, if youcan, please support the projectby finding and submitting your offsets
